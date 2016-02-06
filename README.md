@@ -18,4 +18,5 @@ Append at the end of the link `?` and separate times with `&`
 * `m=<minutes>`
 * `s=<seconds>`
 
-For example : `.../index.html?h=1&m=10&s=30` for 1 hour, 10 minutes and 30 seconds
+For example : `.../index.html?h=1&m=10&s=30` for 1 hour, 10 minutes and 30 seconds  
+Each field is optional you can put only minutes or seconds if you want so 
