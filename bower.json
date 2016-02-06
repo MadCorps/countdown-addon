@@ -1,0 +1,17 @@
+{
+  "name": "countdown-addon",
+  "version": "0.0.1",
+  "homepage": "https://github.com/MadCorps/countdown-addon",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "flipclock": "~0.7.7"
+  }
+}

@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+}
+
+.flip-clock-wrapper ul li a div div.inn {
+  background: #060 url("http://madcorps.waxo.org/fond-chrono.png");
+}
+
+.flip-clock-label {
+  display: none;
+}
+
