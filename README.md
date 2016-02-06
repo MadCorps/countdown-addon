@@ -14,8 +14,8 @@ Just use the file as it is
 
 ##### Countdown timer
 Append at the end of the link `?` and separate times with `&`
-* h=<hours>
-* m=<minutes>
-* s=<seconds>
+* `h=<hours>`
+* `m=<minutes>`
+* `s=<seconds>`
 
 For example : `.../index.html?h=1&m=10&s=30` for 1 hour, 10 minutes and 30 seconds
